@@ -7,7 +7,7 @@ const app = express();
 const port = 3000;
 
 const url = 'mongodb://localhost:27017';
-const dbName = 'yourDatabaseName';
+const dbName = 'store';
 
 const jwtSecret = 'secret';
 
